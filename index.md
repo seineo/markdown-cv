@@ -4,16 +4,16 @@ layout: cv
 # 李跃威
 计算机科学与技术专业学生，西安电子科技大学
 
-<div id="webaddress">
-<a>1013248644@qq.com</a>
-| <a>+86 15768437219</a>
-</div>
-<div id="webaddress">
-<a href="github.com/seineo">Github</a> 
-| <a href="seineo.github.io">Blog</a>
+<div>
+1013248644@qq.com
+| +86 15768437219
 </div>
 
-## Education
+<div id="webaddress">
+<a href="https://github.com/seineo">Github</a> | <a href="https://seineo.github.io">Blog</a>
+</div>
+
+## 教育经历
 
 `2018 - 至今`
 __西安电子科技大学__
