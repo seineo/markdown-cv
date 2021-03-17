@@ -10,7 +10,7 @@ layout: cv
 </div>
 <div id="webaddress">
 <a href="github.com/seineo">Github</a> 
-<a href="seineo.github.io">Blog</a>
+| <a href="seineo.github.io">Blog</a>
 </div>
 
 ## Education
