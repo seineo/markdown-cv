@@ -2,52 +2,36 @@
 layout: cv
 ---
 # 李跃威
-西安电子科技大学，本科，计算机科学与技术专业，2018-2022
+计算机科学与技术专业学生，西安电子科技大学
 
 <div id="webaddress">
-<a href="github.com/seineo">Github</a>
-| <a href="seineo.github.io">Blog</a>
+<a>1013248644@qq.com</a>
+| <a>+86 15768437219</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+<div id="webaddress">
+<a href="github.com/seineo">Github</a> 
+<a href="seineo.github.io">Blog</a>
+</div>
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018 - 至今`
+__西安电子科技大学__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- 计算机科学与技术专业，软件与理论方向
+- GPA: 3.4 / 4.0
 
 
+## 获奖经历
 
-## Awards
+`2020`
+全国大学生数学建模竞赛本科组陕西赛区一等奖
 
-`2012`
-President, *Royal Society*, London, UK
+`2020`
+第十二届全国大学生数学竞赛（非数学类）三等奖
 
-Associate, *French Academy of Science*, Paris, France
-
+`2018 - 2020`
+校三等奖学金
 
 
 ## Publications
