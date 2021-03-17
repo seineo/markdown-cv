@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# 李跃威
+西安电子科技大学，本科，计算机科学与技术专业，2018-2022
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="github.com/seineo">Github</a>
+| <a href="seineo.github.io">Blog</a>
 </div>
 
 
