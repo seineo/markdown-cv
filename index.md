@@ -4,10 +4,7 @@ layout: cv
 # 李跃威
 计算机科学与技术专业学生，西安电子科技大学
 
-<div>
-1013248644@qq.com
-| +86 15768437219
-</div>
+<a>1013248644@qq.com</a> | +86 15768437219
 
 <div id="webaddress">
 <a href="https://github.com/seineo">Github</a> | <a href="https://seineo.github.io">Blog</a>
@@ -21,7 +18,6 @@ __西安电子科技大学__
 - 计算机科学与技术专业，软件与理论方向
 - GPA: 3.4 / 4.0
 
-
 ## 获奖经历
 
 `2020`
@@ -32,7 +28,6 @@ __西安电子科技大学__
 
 `2018 - 2020`
 校三等奖学金
-
 
 ## Publications
 
