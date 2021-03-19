@@ -26,7 +26,7 @@ __西安电子科技大学__
 C++, C, Java
 
 ### 技术/环境
-Linux, MySQL
+Git, MySQL, Linux
 
 
 ## 项目经历
