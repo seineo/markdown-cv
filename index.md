@@ -2,7 +2,7 @@
 layout: cv
 ---
 # 李跃威
-计算机科学与技术专业学生，西安电子科技大学
+
 <div id="webaddress">
 <a>1013248644@qq.com</a> | +86 15768437219
 </div>
@@ -20,16 +20,14 @@ __西安电子科技大学__
 - GPA: 3.7
 - 英语六级：570
 
-## 获奖经历
+## 专业技能
 
-`2020`
-全国大学生数学建模竞赛本科组陕西赛区一等奖
+### 程序语言
+C++, C, Java
 
-`2020`
-第十二届全国大学生数学竞赛（非数学类）三等奖
+### 技术/环境
+Linux, MySQL
 
-`2018 - 2020`
-校三等奖学金
 
 ## 项目经历
 
@@ -52,16 +50,16 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 write my own shell with some easy command.
 
 
-## Occupation
+## 获奖经历
 
-`1600`
-__Royal Mint__, London
+`2020`
+全国大学生数学建模竞赛本科组陕西赛区一等奖
 
-- Warden
-- Minted coins
+`2020`
+第十二届全国大学生数学竞赛（非数学类）三等奖
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2018 - 2020`
+校三等奖学金
 
 
 
