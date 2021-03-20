@@ -34,12 +34,14 @@ Git, MySQL, Linux
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Gitlet
+__伯克利（Berkeley）大学CS 61B课程的最终项目__
 
 `02/2021 - 至今`
-- 项目来源于伯克利（Berkeley）大学CS 61B课程的最终项目，模仿了Git中的一些基本功能；
+- 项目模仿了Git中的一些基本功能，提供当前目录的本地版本管理；
 - 独自完成项目的设计、单元测试与实现；
-- 采用测试驱动开发，运用面向对象的思想，实现了一些基本命令，如add，commit，rm，log，status，checkout等；
-- 使用**C++17 filesystem**完成文件的处理、**Boost serialization**完成文件的序列化、**Crypto++**生成SHA-1哈希值，采用策略模式避免了臃肿的条件选择并实现了添加命令的可扩展性；
+- 采用测试驱动开发与面向对象，实现了一些基本命令，如add，commit，status，checkout等；
+- 使用**C++17 filesystem**完成文件的处理、**Boost serialization**完成文件的序列化；
+- 采用策略模式避免了臃肿的条件选择并实现了添加命令的可扩展性；
 - 通过这一项目，体验了软件开发的流程，了解到代码设计的重要性。
 
 
