@@ -26,7 +26,7 @@ __西安电子科技大学__
 C++, C, Java
 
 ### 工具/环境
-Git, MySQL, Linux
+Vim, Git, MySQL, Linux
 
 
 ## 项目经历
@@ -34,7 +34,7 @@ Git, MySQL, Linux
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Gitlet
-__伯克利（Berkeley）大学CS 61B课程的最终项目__
+__伯克利大学数据结构课程的最终项目__
 
 `02/2021 - 至今`
 - 项目模仿了Git中的一些基本功能，提供当前目录的本地版本管理；
